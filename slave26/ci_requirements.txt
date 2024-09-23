@@ -25,6 +25,7 @@ pycodestyle==2.0.0
 pycparser==2.18
 pyflakes==1.2.3
 pytest==3.0.6
+pytest_catchlog==1.2.2
 pytest_cov==2.4.0
 python-gnupg==0.4.6
 PyYAML==3.11
